@@ -1,0 +1,55 @@
+11/09/20 18:40
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problems 5-6 (15 points):
+NotImplementedError: Problem 5 Incomplete
+
+Code Quality (5 points):
+not implemented
+Score += 0
+
+Total score: 30/50 = 60.0%
+
+
+Comments:
+	*Problem 5 was graded for code quality
+
+-------------------------------------------------------------------------------
+
+11/13/20 17:17
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problems 5-6 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

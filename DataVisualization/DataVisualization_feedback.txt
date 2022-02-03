@@ -1,0 +1,64 @@
+12/01/20 01:46
+
+Problem 1 (5 points):
+use a linspace to plot your line over the requested domain.
+Score += 4
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+12/05/20 04:33
+
+Problem 1 (5 points):
+plot the lines on domain [0,20]
+Score += 4
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+
+Comments:
+	You only needed to show the first 10 plots (until n=4) for problem 2, but everythlooks good.
+
+-------------------------------------------------------------------------------
+

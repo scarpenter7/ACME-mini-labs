@@ -1,0 +1,70 @@
+04/06/21 16:48
+
+Problem 1 (5 points):
+
+	Correct response: (0.380916372562691, 9)
+	Student response: (0.380916372562691, 8)
+Score += 0
+
+Problem 2 (5 points):
+Stopping percewntages looks strange
+Score += 4
+
+Problem 3 (5 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problems 4-6 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problems 4-6 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problems 4-6 Incomplete
+
+Problem 7 (5 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+not implemented
+Score += 0
+
+Total score: 4/50 = 8.0%
+
+-------------------------------------------------------------------------------
+
+04/08/21 10:06
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+
+	Correct response: [0.4 0.2 0.2 0.2 0. ]
+	Student response: [0.4 0.2 0.2 0.2 0.2]
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,68 @@
+11/08/20 14:26
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+connectivity() failed for number of connected components
+	Correct response: 1
+	Student response: 3
+connectivity() failed for algebraic connectivity
+	Correct response: 1.5857864376269042
+	Student response: 1.0
+connectivity() failed for number of connected components
+	Correct response: 2
+	Student response: 3
+Score += 3
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 18/50 = 36.0%
+
+-------------------------------------------------------------------------------
+
+11/14/20 15:07
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+connectivity() failed for algebraic connectivity
+	Correct response: 3.469446951953614e-16
+	Student response: 1.0000000000000002
+Score += 7
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

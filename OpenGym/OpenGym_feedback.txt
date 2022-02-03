@@ -1,0 +1,51 @@
+02/23/21 16:51
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 0
+
+Problem 3 (10 points):
+I didn't see it. I'm guessing it is right, but the autograder is a little messed up. If you don't get full points on the final grade talk to me
+Score += 9
+
+Problem 4 (15 points):
+Score += 15
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 44/50 = 88.0%
+
+-------------------------------------------------------------------------------
+
+03/01/21 21:38
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

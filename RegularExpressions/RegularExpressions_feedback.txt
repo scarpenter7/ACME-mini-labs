@@ -1,0 +1,66 @@
+02/08/21 20:59
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+prob5() failed
+	Correct response: 'for _ in range(5):\n            if x > 10:\n                try:\n                    x /= 2\n                except ValueError as e:\n                    print(e)\n                except:\n                    print(x)\n                finally:\n                    x += 1\n            elif x == 5:\n                x = 6\n            else:\n                while x < 4:\n                    x += 2\n        def func():\n            pass\n        class something:\n            pass'
+	Student response: 'for _ in range(5):\n            if x > 10:\n                try:\n                    x /= 2\n                except ValueError as e:\n                    print(e)\n                except:\n                    print(x)\n                finally:\n                    x += 1\n            elif x == 5:\n                x = 6\n            else:\n                while x < 4\n                    x += 2\n        def func()\n            pass\n        class something\n            pass'
+Score += 2
+
+Problem 6 (20 points):
+IndexError: list index out of range
+
+Code Quality (5 points):
+Comment prob6
+Score += 2
+
+Total score: 24/50 = 48.0%
+
+-------------------------------------------------------------------------------
+
+02/16/21 20:33
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (20 points):
+missing names: MacKensie N. Guy; MacKenzie T. Walters; MacKenzie J. Stuart; McKenzie Mercado; TaShya A. Lynn; MacKenzie Mcleod
+extra names: Kenzie J; Kensie N; Shya A; Kenzie Mercado; Kenzie Mcleod; Kenzie T
+Score += 14
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 44/50 = 88.0%
+
+-------------------------------------------------------------------------------
+
+03/01/21 22:48
+
+File 'regular_expressions.py' not found!
+
+-------------------------------------------------------------------------------
+
