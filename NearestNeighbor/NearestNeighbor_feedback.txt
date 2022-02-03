@@ -1,0 +1,85 @@
+10/26/20 19:22
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+TypeError: object of type 'numpy.int64' has no len()
+
+Problem 4 (10 points):
+TypeError: object of type 'numpy.float64' has no len()
+
+Problem 5 (10 points):
+TypeError: KNeighborsClassifier() takes no arguments
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+query not implemented
+Score += 0
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+10/28/20 17:20
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Your insert function looks a little crammed. Throw in some blank lines to group related lines together. Adding comments before each group helps too. I also noticed that you are dispalying one of the mnist images. That's not necessary.
+Score += 3
+
+Total score: 38/50 = 76.0%
+
+-------------------------------------------------------------------------------
+
+10/31/20 15:15
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
